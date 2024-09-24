@@ -1,0 +1,12 @@
+D:\Health&Med\PATIENT\Patient\src\PATIENT.DOMAIN\bin\Debug\net8.0\PATIENT.DOMAIN.deps.json
+D:\Health&Med\PATIENT\Patient\src\PATIENT.DOMAIN\bin\Debug\net8.0\PATIENT.DOMAIN.dll
+D:\Health&Med\PATIENT\Patient\src\PATIENT.DOMAIN\bin\Debug\net8.0\PATIENT.DOMAIN.pdb
+D:\Health&Med\PATIENT\Patient\src\PATIENT.DOMAIN\obj\Debug\net8.0\PATIENT.DOMAIN.csproj.AssemblyReference.cache
+D:\Health&Med\PATIENT\Patient\src\PATIENT.DOMAIN\obj\Debug\net8.0\PATIENT.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Health&Med\PATIENT\Patient\src\PATIENT.DOMAIN\obj\Debug\net8.0\PATIENT.DOMAIN.AssemblyInfoInputs.cache
+D:\Health&Med\PATIENT\Patient\src\PATIENT.DOMAIN\obj\Debug\net8.0\PATIENT.DOMAIN.AssemblyInfo.cs
+D:\Health&Med\PATIENT\Patient\src\PATIENT.DOMAIN\obj\Debug\net8.0\PATIENT.DOMAIN.csproj.CoreCompileInputs.cache
+D:\Health&Med\PATIENT\Patient\src\PATIENT.DOMAIN\obj\Debug\net8.0\PATIENT.DOMAIN.dll
+D:\Health&Med\PATIENT\Patient\src\PATIENT.DOMAIN\obj\Debug\net8.0\refint\PATIENT.DOMAIN.dll
+D:\Health&Med\PATIENT\Patient\src\PATIENT.DOMAIN\obj\Debug\net8.0\PATIENT.DOMAIN.pdb
+D:\Health&Med\PATIENT\Patient\src\PATIENT.DOMAIN\obj\Debug\net8.0\ref\PATIENT.DOMAIN.dll

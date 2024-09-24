@@ -1,0 +1,17 @@
+D:\Health&Med\PATIENT\Patient\PATIENT.APPLICATION\bin\Debug\net8.0\PATIENT.APPLICATION.deps.json
+D:\Health&Med\PATIENT\Patient\PATIENT.APPLICATION\bin\Debug\net8.0\PATIENT.APPLICATION.dll
+D:\Health&Med\PATIENT\Patient\PATIENT.APPLICATION\bin\Debug\net8.0\PATIENT.APPLICATION.pdb
+D:\Health&Med\PATIENT\Patient\PATIENT.APPLICATION\obj\Debug\net8.0\PATIENT.APPLICATION.GeneratedMSBuildEditorConfig.editorconfig
+D:\Health&Med\PATIENT\Patient\PATIENT.APPLICATION\obj\Debug\net8.0\PATIENT.APPLICATION.AssemblyInfoInputs.cache
+D:\Health&Med\PATIENT\Patient\PATIENT.APPLICATION\obj\Debug\net8.0\PATIENT.APPLICATION.AssemblyInfo.cs
+D:\Health&Med\PATIENT\Patient\PATIENT.APPLICATION\obj\Debug\net8.0\PATIENT.APPLICATION.csproj.CoreCompileInputs.cache
+D:\Health&Med\PATIENT\Patient\PATIENT.APPLICATION\obj\Debug\net8.0\PATIENT.APPLICATION.dll
+D:\Health&Med\PATIENT\Patient\PATIENT.APPLICATION\obj\Debug\net8.0\refint\PATIENT.APPLICATION.dll
+D:\Health&Med\PATIENT\Patient\PATIENT.APPLICATION\obj\Debug\net8.0\PATIENT.APPLICATION.pdb
+D:\Health&Med\PATIENT\Patient\PATIENT.APPLICATION\obj\Debug\net8.0\ref\PATIENT.APPLICATION.dll
+D:\Health&Med\PATIENT\Patient\PATIENT.APPLICATION\bin\Debug\net8.0\PATIENT.DOMAIN.dll
+D:\Health&Med\PATIENT\Patient\PATIENT.APPLICATION\bin\Debug\net8.0\PATIENT.INFRA.dll
+D:\Health&Med\PATIENT\Patient\PATIENT.APPLICATION\bin\Debug\net8.0\PATIENT.INFRA.pdb
+D:\Health&Med\PATIENT\Patient\PATIENT.APPLICATION\bin\Debug\net8.0\PATIENT.DOMAIN.pdb
+D:\Health&Med\PATIENT\Patient\PATIENT.APPLICATION\obj\Debug\net8.0\PATIENT.APPLICATION.csproj.AssemblyReference.cache
+D:\Health&Med\PATIENT\Patient\PATIENT.APPLICATION\obj\Debug\net8.0\PATIENT..9C163B4A.Up2Date
