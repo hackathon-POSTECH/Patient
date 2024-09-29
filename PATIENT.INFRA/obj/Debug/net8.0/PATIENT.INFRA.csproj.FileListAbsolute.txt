@@ -15,3 +15,4 @@ D:\Health&Med\PATIENT\Patient\PATIENT.INFRA\obj\Debug\net8.0\refint\PATIENT.INFR
 D:\Health&Med\PATIENT\Patient\PATIENT.INFRA\obj\Debug\net8.0\PATIENT.INFRA.pdb
 D:\Health&Med\PATIENT\Patient\PATIENT.INFRA\obj\Debug\net8.0\PATIENT.INFRA.genruntimeconfig.cache
 D:\Health&Med\PATIENT\Patient\PATIENT.INFRA\obj\Debug\net8.0\ref\PATIENT.INFRA.dll
+D:\Health&Med\PATIENT\Patient\PATIENT.INFRA\obj\Debug\net8.0\PATIENT.INFRA.sourcelink.json

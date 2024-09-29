@@ -15,3 +15,4 @@ D:\Health&Med\PATIENT\Patient\PATIENT.APPLICATION\bin\Debug\net8.0\PATIENT.INFRA
 D:\Health&Med\PATIENT\Patient\PATIENT.APPLICATION\bin\Debug\net8.0\PATIENT.DOMAIN.pdb
 D:\Health&Med\PATIENT\Patient\PATIENT.APPLICATION\obj\Debug\net8.0\PATIENT.APPLICATION.csproj.AssemblyReference.cache
 D:\Health&Med\PATIENT\Patient\PATIENT.APPLICATION\obj\Debug\net8.0\PATIENT..9C163B4A.Up2Date
+D:\Health&Med\PATIENT\Patient\PATIENT.APPLICATION\obj\Debug\net8.0\PATIENT.APPLICATION.sourcelink.json

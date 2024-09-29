@@ -4,6 +4,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using PATIENT.APPLICATION.Consumers;
 using PATIENT.APPLICATION.Patient.CreatePatient;
+using PATIENT.APPLICATION.Patient.GetAllPatient;
+using PATIENT.APPLICATION.Patient.GetById;
 using PATIENT.INFRA.context;
 using PATIENT.INFRA.RabbitMq;
 using PATIENT.INFRA.Repositories;
@@ -18,6 +20,10 @@ builder.Services.AddControllers();
 
 builder.Services.AddDbContext<PATIENTCONTEXT>(options =>
       options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddScoped<IMediator, Mediator>();
+builder.Services.AddTransient<IRequestHandler<GetAllPatientQuery, IEnumerable<GetAllPatientResponse>>, GetAllPatientQueryHandler>();
+builder.Services.AddTransient<IRequestHandler<GetByIdQuery, GetByIdResponse>, GetByIdQueryHandler>();
 
 builder.Services.AddHostedService<CreatePatientConsumer>();
 builder.Services.AddScoped<IMediator, Mediator>();

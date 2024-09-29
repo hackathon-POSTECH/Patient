@@ -116,3 +116,4 @@ D:\Health&Med\PATIENT\Patient\src\PATIENT.API\bin\Debug\net8.0\Newtonsoft.Json.d
 D:\Health&Med\PATIENT\Patient\src\PATIENT.API\bin\Debug\net8.0\RabbitMQ.Client.dll
 D:\Health&Med\PATIENT\Patient\src\PATIENT.API\bin\Debug\net8.0\PATIENT.APPLICATION.dll
 D:\Health&Med\PATIENT\Patient\src\PATIENT.API\bin\Debug\net8.0\PATIENT.APPLICATION.pdb
+D:\Health&Med\PATIENT\Patient\src\PATIENT.API\obj\Debug\net8.0\PATIENT.API.sourcelink.json

@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "ContainingType": "PATIENT.API.Controllers.PatientController",
+    "Method": "GetAllAsync",
+    "RelativePath": "Patient/getall",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PATIENT.API.Controllers.PatientController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "Patient/getbyid/{patientId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patientId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
