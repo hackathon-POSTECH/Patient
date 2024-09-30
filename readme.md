@@ -63,7 +63,7 @@ Once a consultation is booked, the service sends a message to RabbitMQ to notify
 ## Setup & Installation
 
 ### Prerequisites
-- .NET 6 SDK
+- .NET 8 SDK
 - Docker & Docker Compose
 - RabbitMQ
 - PostgreSQL
