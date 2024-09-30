@@ -1,24 +1,28 @@
-﻿using PATIENT.DOMAIN.common;
+﻿using System;
+using PATIENT.DOMAIN.common;
+using PATIENT.DOMAIN.Extension;
 
-namespace PATIENT.DOMAIN;
-
-public class Patient : AggregateRoot
+namespace PATIENT.DOMAIN
 {
-    public string Name { get; private set; }
-    public string Cpf { get; private set; }
-    public string Email { get; private set; }
-    public Guid UserId { get; private set; }
-
-    public static Patient CreatePatient(string name, string cpf, string email, Guid userId)
+    public class Patient : AggregateRoot
     {
-        return new Patient
+        public string Name { get; private set; }
+        public string Cpf { get; private set; }
+        public string Email { get; private set; }
+        public Guid UserId { get; private set; }
+
+        public static Patient CreatePatient(string name, string cpf, string email, Guid userId)
         {
-            Cpf = cpf,
-            Email = email,
-            UserId = userId,
-            Name = name
-        };
+            if (!CPF.IsValid(cpf))
+                throw new ArgumentException("CPF inválido.");
+
+            return new Patient
+            {
+                Cpf = cpf,
+                Email = email,
+                UserId = userId,
+                Name = name
+            };
+        }
     }
-
-
 }
